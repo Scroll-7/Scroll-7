@@ -2,7 +2,7 @@
 
 ### Computer Science Student | Software Developer
 
-I'm a Computer Science student interested in **software engineering, web development, mobile applications, AI, and DevOps**. I enjoy building practical projects and exploring new technologies through hands-on development.
+I'm a Computer Science student interested in **software engineering, web development, mobile applications and AI**. I enjoy building practical projects and exploring new technologies through hands-on development.
 
 ## Tech Stack
 
