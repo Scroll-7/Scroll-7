@@ -2,38 +2,31 @@
 
 ### Computer Science Student | Software Developer
 
-Interested in software engineering, web development, mobile applications,
-AI/ML, and DevOps.
+I'm a Computer Science student interested in **software engineering, web development, mobile applications, AI, and DevOps**. I enjoy building practical projects and exploring new technologies through hands-on development.
 
 ## Tech Stack
 
-JavaScript · Python · Java · PHP · C++ · React · Next.js · Node.js · Laravel ·
-MySQL · PostgreSQL · Firebase · Docker · Jenkins
+**Languages:** JavaScript · Python · Java · PHP · C++
 
-<details>
-<summary>Featured Projects</summary>
+**Web:** React · Next.js · Node.js · Laravel
 
-- **Fake Exposer** — Multi-modal misinformation and deepfake detection platform.
-- **Dari Project** — Expo / React Native / Firebase mobile application.
-- **DevOps Web App** — Java web application with Jenkins CI/CD.
-- **Smart Home Project** — Arduino and Proteus home automation project.
+**Databases:** MySQL · PostgreSQL · Firebase
 
-</details>
+**Other:** Git · Docker · Jenkins · Expo · Machine Learning · Computer Vision
 
-<details>
-<summary>More About Me</summary>
+## Featured Projects
 
-Interested in:
-- Software Engineering
-- AI / Machine Learning
-- Computer Vision
-- Full-Stack Development
-- Mobile Development
-- DevOps
-- Embedded Systems
+* **[Fake Exposer](https://github.com/Scroll-7/Fake-exposer)** — Multi-modal misinformation and deepfake detection platform using AI, computer vision, and forensic analysis.
+* **[Dari Project](https://github.com/Scroll-7/dari-project)** — Mobile application built with Expo, React Native, and Firebase.
+* **[DevOps Web App](https://github.com/Scroll-7/devops-webapp)** — Java web application focused on DevOps and CI/CD with Jenkins.
+* **[Smart Home Project](https://github.com/Scroll-7/Smart-home-project-using-protus-8)** — Arduino/Proteus project exploring home automation and embedded systems.
 
-</details>
+## Interests
+
+Software Engineering · AI/ML · Full-Stack Development · Mobile Development · DevOps · Computer Vision · Embedded Systems
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Aziz%20Ben%20Hamouda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-benhamouda/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Aziz%20Ben%20Hamouda-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-benhamouda/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Scroll--7-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Scroll-7)
