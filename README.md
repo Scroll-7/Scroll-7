@@ -29,4 +29,3 @@ Software Engineering · AI/ML · Full-Stack Development · Mobile Development ·
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Aziz%20Ben%20Hamouda-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-benhamouda/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Scroll--7-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Scroll-7)
