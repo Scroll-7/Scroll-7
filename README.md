@@ -1,8 +1,13 @@
 # Hi, I'm Aziz Ben Hamouda
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Scroll-7)](https://git.io/streak-stats)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Scroll-7&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scroll-7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Scroll-7&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Computer Science Student | Software Developer
 
-I'm a Computer Science student interested in **software engineering, web development, mobile applications, AI, and DevOps**. I enjoy building practical projects and exploring new technologies through hands-on development.
+I'm a Computer Science student interested in **software engineering, web development, mobile applications, AI, and DevOps**. I enjoy building practical projects and exploring new technologies through hands-on projects.
 
 ## Tech Stack
 
@@ -27,5 +32,5 @@ Software Engineering · AI/ML · Full-Stack Development · Mobile Development ·
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Aziz%20Ben%20Hamouda-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-benhamouda/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Aziz%20Ben%20Hamouda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-benhamouda/)
 
